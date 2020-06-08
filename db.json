@@ -1,3 +1,20 @@
+{"departments": [{
+"code": "001",
+"name": "general-medicine",
+"description": "Deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs ."
+},{
+"code": "002",
+"name": "cardiology",
+"description": "Deals with diseases and abnormalities of the heart."
+},
 {
-"departments":[]
+"code": "003",
+"name": "infectious-diseases",
+"description": "Deals with common infections"
+},
+{
+"code": "004",
+"name": "paediatrics",
+"description": "Deals with child's health"
+}]
 }
