@@ -16,5 +16,55 @@
 "code": "004",
 "name": "paediatrics",
 "description": "Deals with child's health"
-}]
+}],
+ "doctors": [{
+			"id": "51ce923d-ae0e-4834-8f63-b59b2da54d51",
+			"fullName": "Ayan",
+			"age": 33,
+			"qualification": "MS, MD",
+			"dateofJoining": "22/04/2019",
+			"department": {
+				"code": "002",
+				"name": "cardiology",
+				"description": "The branch of medicine that deals with diseases and abnormalities of the heart."
+			}
+		},
+		{
+			"id": "51ce923d-ae0e-4834-8f63-b59b2da54d52",
+			"fullName": "Kalyan",
+			"age": 28,
+			"qualification": "MBBS",
+			"dateofJoining": "22/04/2019",
+			"department": {
+				"code": "001",
+				"name": "general-medicine",
+				"description": "The branch of medicine that deals with the diagnosis and (nonsurgical) treatment of diseases of the internal organs (especially in adults)."
+			}
+		},
+		{
+			"id": "51ce923d-ae0e-4834-8f63-b59b2da54d53",
+			"fullName": "Mia",
+			"age": 25,
+			"qualification": "MBBS",
+			"dateofJoining": "21/04/2019",
+			"department": {
+				"code": "004",
+				"name": "Paediatrics",
+				"description": "Deals with child 's health"
+			}
+		},
+		{
+			"id": "51ce923d-ae0e-4834-8f63-b59b2da54d54",
+			"fullName": "Maya",
+			"age": 35,
+			"qualification": "MD Internal Medicine, FNB ID",
+			"dateofJoining": "21/04/2019",
+			"department": {
+				"code": "003",
+				"name": "infectious-disease",
+				"description": "Deals with infectious diseases"
+			}
+		}
+
+	]
 }
