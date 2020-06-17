@@ -68,7 +68,7 @@
 
 	],
  "appointments": [{
-		"departmentCode": "001 ",
+		"departmentCode": "001",
 		"departmentName": "general-medicine",
 		"doctors": [{
 			"id": "51ce923d-ae0e-4834-8f63-b59b2da54d52",
