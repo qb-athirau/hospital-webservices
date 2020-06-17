@@ -78,10 +78,10 @@
 			"dateofJoining": "22/04/2019",
 			"appointments": [{
 				"patientName": "Radhika",
-				"dateTime": "20/06/2020"
+				"dateOfAppointment": "Sat Jun 20 2020 13:00:00 GMT+0530"
 			}, {
 				"patientName": "Ajay",
-				"dateTime": "20/06/2020"
+				"dateOfAppointment": "Sat Jun 20 2020 14:00:00 GMT+0530"
 			}]
 		}]
 	}]
